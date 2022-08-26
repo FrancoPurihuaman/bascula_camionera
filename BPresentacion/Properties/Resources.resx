@@ -1,0 +1,1126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ic_toc_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_toc_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_search_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_search_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_week_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_week_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_add_shopping_cart_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_add_shopping_cart_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_input_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_input_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_ind_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_ind_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assessment_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assessment_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_data_setting_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_data_setting_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_favorite_outline_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_favorite_outline_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_list_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_list_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_highlight_remove_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_highlight_remove_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_loyalty_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_loyalty_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_lock_outline_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_lock_outline_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_language_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_language_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_list_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_list_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_ethernet_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_ethernet_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_explore_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_explore_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_thumb_down_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_thumb_down_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_backup_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_backup_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_print_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_print_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_data_setting_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_data_setting_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_phone_msg_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_phone_msg_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_composite_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_composite_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_aspect_ratio_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_aspect_ratio_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_ethernet_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_ethernet_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_done_all_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_done_all_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_module_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_module_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_ind_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_ind_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_applications_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_applications_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_alarm_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_alarm_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_visibility_off_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_visibility_off_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_dashboard_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_dashboard_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_late_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_late_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_supervisor_account_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_supervisor_account_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_accessibility_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_accessibility_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_agenda_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_agenda_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_swap_vert_circle_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_swap_vert_circle_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_thumbs_up_down_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_thumbs_up_down_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_class_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_class_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_contact_cal_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_contact_cal_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_home_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_home_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_theaters_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_theaters_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_polymer_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_polymer_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_https_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_https_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_done_all_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_done_all_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_module_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_module_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_wallet_giftcard_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_wallet_giftcard_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_component_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_component_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_question_answer_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_question_answer_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_work_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_work_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_invert_colors_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_invert_colors_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_cell_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_cell_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_input_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_input_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_dns_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_dns_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_flip_to_back_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_flip_to_back_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_schedule_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_schedule_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_3d_rotation_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_3d_rotation_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_thumb_down_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_thumb_down_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_delete_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_delete_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_remote_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_remote_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_headline_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_headline_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_swap_vert_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_swap_vert_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_history_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_history_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_label_outline_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_label_outline_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_info_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_info_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_display_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_display_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_markunread_mailbox_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_markunread_mailbox_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_lock_open_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_lock_open_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_wallet_membership_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_wallet_membership_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_bookmark_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_bookmark_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_hdmi_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_hdmi_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_note_add_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_note_add_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_android_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_android_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_backup_restore_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_backup_restore_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_exit_to_app_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_exit_to_app_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_visibility_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_visibility_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_grade_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_grade_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login_gov_icon_146024" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Aplication\login_gov_icon_146024.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_balance_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_balance_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_track_changes_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_track_changes_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_label_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_label_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_media_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_media_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_pageview_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_pageview_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_device_info_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_device_info_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_note_add_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_note_add_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_find_in_page_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_find_in_page_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_circle_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_circle_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_visibility_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_visibility_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shop_two_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_shop_two_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_turned_in_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_turned_in_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_display_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_display_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_invert_colors_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_invert_colors_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_trending_down_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_trending_down_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_camera_mic_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_camera_mic_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_report_problem_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_report_problem_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_system_update_tv_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_system_update_tv_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_composite_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_composite_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_overscan_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_overscan_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_reorder_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_reorder_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_antenna_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_antenna_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_add_shopping_cart_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_add_shopping_cart_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_accessibility_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_accessibility_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_alarm_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_alarm_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_grade_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_grade_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize_white_x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minimize-white-x24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shopping_cart_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_shopping_cart_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_balance_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_balance_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_book_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_book_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_backup_restore_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_backup_restore_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_face_unlock_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_face_unlock_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_antenna_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_antenna_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_day_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_day_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_query_builder_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_query_builder_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_voice_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_voice_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_help_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_help_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_polymer_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_polymer_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_flip_to_front_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_flip_to_front_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_alarm_off_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_alarm_off_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assessment_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assessment_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_trending_up_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_trending_up_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_store_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_store_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_subject_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_subject_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_stars_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_stars_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_component_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_component_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_translate_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_translate_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_subject_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_subject_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_lock_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_lock_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_turned_in_not_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_turned_in_not_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shopping_basket_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_shopping_basket_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_box_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_box_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_label_outline_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_label_outline_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_open_in_browser_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_open_in_browser_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_carousel_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_carousel_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_star_rate_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_star_rate_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_headline_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_headline_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_stream_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_stream_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_reorder_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_reorder_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_favorite_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_favorite_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_highlight_remove_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_highlight_remove_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_contact_cal_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_contact_cal_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_agenda_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_agenda_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_cached_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_cached_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_turned_in_not_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_turned_in_not_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_power_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_power_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_https_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_https_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_room_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_room_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TractorUnit_Black_icon_icons_com_54885" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Aplication\TractorUnit_Black_icon-icons.com_54885.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_thumb_up_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_thumb_up_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_return_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_return_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_thumbs_up_down_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_thumbs_up_down_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_phone_msg_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_phone_msg_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_wallet_travel_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_wallet_travel_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_payment_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_payment_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_alarm_add_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_alarm_add_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_open_with_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_open_with_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_translate_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_translate_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_event_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_event_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_launch_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_launch_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shop_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_shop_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_day_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_day_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_trending_neutral_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_trending_neutral_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_3d_rotation_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_3d_rotation_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_announcement_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_announcement_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_spellcheck_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_spellcheck_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_open_in_new_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_open_in_new_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_speaker_notes_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_speaker_notes_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_return_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_return_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_applications_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_applications_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_circle_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_circle_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_identity_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_identity_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_book_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_book_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_history_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_history_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_spellcheck_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_spellcheck_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_stars_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_stars_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="camion_logo_black_pri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\camion-logo-black-pri.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_payment_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_payment_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_balance_wallet_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_balance_wallet_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_autorenew_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_autorenew_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_theaters_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_theaters_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_quilt_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_quilt_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_markunread_mailbox_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_markunread_mailbox_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_bookmark_outline_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_bookmark_outline_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_redeem_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_redeem_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_scan_wifi_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_scan_wifi_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_open_in_browser_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_open_in_browser_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_swap_vert_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_swap_vert_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_speaker_notes_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_speaker_notes_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_group_work_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_group_work_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_track_changes_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_track_changes_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_dashboard_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_dashboard_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_label_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_label_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_child_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_child_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_description_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_description_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_identity_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_identity_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_explore_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_explore_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_svideo_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_svideo_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_voice_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_voice_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_extension_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_extension_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_balance_wallet_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_balance_wallet_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_aspect_ratio_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_aspect_ratio_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_lock_open_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_lock_open_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_tab_unselected_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_tab_unselected_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_find_in_page_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_find_in_page_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_device_info_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_device_info_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_picture_in_picture_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_picture_in_picture_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_returned_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_returned_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_turned_in_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_turned_in_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_bluetooth_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_bluetooth_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_flip_to_front_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_flip_to_front_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_system_update_tv_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_system_update_tv_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_store_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_store_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shop_two_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_shop_two_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_visibility_off_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_visibility_off_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_list_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_list_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_tab_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_tab_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_get_app_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_get_app_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_report_problem_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_report_problem_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_picture_in_picture_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_picture_in_picture_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_supervisor_account_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_supervisor_account_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_restore_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_restore_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_done_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_done_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_info_outline_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_info_outline_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_week_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_week_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_lock_outline_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_lock_outline_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_class_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_class_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_column_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_column_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_home_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_home_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_scan_wifi_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_scan_wifi_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_credit_card_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_credit_card_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_media_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_media_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_announcement_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_announcement_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_face_unlock_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_face_unlock_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_cell_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_cell_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_query_builder_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_query_builder_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shopping_cart_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_shopping_cart_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_trending_neutral_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_trending_neutral_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_group_work_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_group_work_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_power_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_power_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_today_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_today_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_toc_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_toc_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_help_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_help_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_late_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_late_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_bluetooth_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_bluetooth_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_search_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_search_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_wallet_travel_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_wallet_travel_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_pageview_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_pageview_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_tab_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_tab_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_question_answer_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_question_answer_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_perm_camera_mic_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_perm_camera_mic_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_launch_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_launch_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_swap_vert_circle_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_swap_vert_circle_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_hdmi_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_hdmi_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_box_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_box_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_verified_user_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_verified_user_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shop_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_shop_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shopping_basket_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_shopping_basket_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_favorite_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_favorite_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_phone_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_phone_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_list_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_list_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_carousel_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_carousel_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_star_rate_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_star_rate_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_done_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_done_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_find_replace_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_find_replace_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_info_outline_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_info_outline_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_schedule_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_schedule_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_loyalty_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_loyalty_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_cached_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_cached_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_flip_to_back_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_flip_to_back_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_find_replace_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_find_replace_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_bookmark_outline_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_bookmark_outline_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_work_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_work_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_alarm_off_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_alarm_off_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_redeem_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_redeem_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_info_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_info_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_column_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_column_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_receipt_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_receipt_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_alarm_add_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_alarm_add_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_description_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_description_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_phone_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_phone_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_wallet_membership_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_wallet_membership_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_button_witex24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close-button-witex24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_alarm_on_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_alarm_on_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_trending_down_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_trending_down_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_remote_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_remote_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_receipt_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_receipt_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_credit_card_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_credit_card_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_android_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_android_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_array_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_array_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_account_child_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_account_child_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_get_app_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_get_app_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_open_in_new_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_open_in_new_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_today_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_today_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_restore_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_restore_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_alarm_on_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_alarm_on_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_backup_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_backup_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_language_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_language_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_turned_in_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_turned_in_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_bug_report_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_bug_report_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_favorite_outline_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_favorite_outline_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_thumb_up_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_thumb_up_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_verified_user_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_verified_user_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_autorenew_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_autorenew_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_input_svideo_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_input_svideo_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_stream_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_stream_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_quilt_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_quilt_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_extension_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_extension_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_open_with_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_open_with_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_dns_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_dns_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_swap_horiz_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_swap_horiz_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_room_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_room_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_bookmark_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_bookmark_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_event_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_event_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_trending_up_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_trending_up_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_delete_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_delete_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_bug_report_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_bug_report_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_overscan_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_settings_overscan_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_tab_unselected_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_tab_unselected_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_view_array_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_view_array_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_lock_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_lock_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_returned_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_returned_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_exit_to_app_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_exit_to_app_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_swap_horiz_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_swap_horiz_black_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_assignment_turned_in_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_assignment_turned_in_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_wallet_giftcard_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_wallet_giftcard_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_print_black_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Action\action\1x_ios\ic_print_black_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close-button-witex24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close-button-witex241.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_button_x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close-button-x24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anadir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\anadir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="buscar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\buscar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="impresion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\impresion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="printer_6029" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\printer_6029.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,433 @@
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\bin\Debug\BPresentacion.exe.config
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\bin\Debug\BPresentacion.exe
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\bin\Debug\BPresentacion.pdb
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.exe
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.pdb
+C:\Users\ING SISTEMAS\source\repos\Balanza\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.exe.config
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.exe
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.pdb
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.exe
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.pdb
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BControladores.dll
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BDatos.dll
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BControladores.pdb
+D:\proyecto oficial\Balanza\BPresentacion\bin\Debug\BDatos.pdb
+D:\proyecto oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.exe.config
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.exe
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BPresentacion.pdb
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BControladores.dll
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BDatos.dll
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BControladores.pdb
+D:\proyecto_oficial\Balanza\BPresentacion\bin\Debug\BDatos.pdb
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.exe
+D:\proyecto_oficial\Balanza\BPresentacion\obj\Debug\BPresentacion.pdb
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BPresentacion.exe.config
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BPresentacion.exe
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BPresentacion.pdb
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.exe
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.pdb
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTickets.resources
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BModelo.dll
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\bin\Debug\BModelo.pdb
+F:\BalanzaCamion\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTicketPendiente.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\bdMorrup.accdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe.config
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe.manifest
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.application
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\BControlers.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\BSourceReports.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\stdole.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\BControlers.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\BModelo.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\BSourceReports.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAnularPeso.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAjustesUsuarios.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAjustes.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmConfigSis.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTicketPendiente.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTickets.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Inicio.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmReports.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorImpresion.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorReportes.resources
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.exe.manifest
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.application
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.exe
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\bdMorrup.accdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe.config
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe.manifest
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.application
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\BControlers.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\BModelo.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\BSourceReports.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\BDatos.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\EnvDTE.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\stdole.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.MSXML.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\BControlers.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\BModelo.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\BSourceReports.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\BDatos.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAnularPeso.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAjustesUsuarios.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAjustes.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmConfigSis.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTicketPendiente.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTickets.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Inicio.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmReports.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorImpresion.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorReportes.resources
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\RdlCompile.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\RdlCompile.compiled
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.exe.manifest
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.application
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.exe
+D:\Todo del Proyecto de balanza\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\bdMorrup.accdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe.config
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe.manifest
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.application
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BControlers.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BModelo.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BSourceReports.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\stdole.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BControlers.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BModelo.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BSourceReports.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAnularPeso.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAjustesUsuarios.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAjustes.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmConfigSis.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTicketPendiente.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTickets.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Inicio.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmReports.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorImpresion.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorPrincipal.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorReportes.resources
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.exe.manifest
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.application
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.exe
+C:\Users\THOMAS\Desktop\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\bdMorrup.accdb
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe.config
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe.manifest
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.application
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.exe
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\SpcThomas.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BControlers.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BModelo.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BSourceReports.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BDatos.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\stdole.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BControlers.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BModelo.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BSourceReports.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAnularPeso.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAjustesUsuarios.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmAjustes.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmConfigSis.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.FrmPrincipal.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTicketPendiente.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmTickets.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Inicio.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Properties.Resources.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.frmReports.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorImpresion.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorPrincipal.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.Reports.visorReportes.resources
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.exe.manifest
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.application
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\BPresentacion.csproj.CopyComplete
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.exe
+C:\Users\Franco\Desktop\BalanzaCamion\BPresentacion\obj\Debug\SpcThomas.pdb

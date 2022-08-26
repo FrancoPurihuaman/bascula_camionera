@@ -1,0 +1,27 @@
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\bin\Release\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\bin\Release\BModelo.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\bin\Release\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\bin\Release\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Release\BModelo.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Release\BModelo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Release\BModelo.csproj.CopyComplete
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Release\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Release\BModelo.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\bin\Release\BModelo.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\bin\Release\BModelo.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\bin\Release\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\bin\Release\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.csprojAssemblyReference.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.csproj.CopyComplete
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\bin\Release\BModelo.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\bin\Release\BModelo.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\bin\Release\BDatos.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\bin\Release\BDatos.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.csproj.CopyComplete
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BModelo\obj\Release\BModelo.pdb

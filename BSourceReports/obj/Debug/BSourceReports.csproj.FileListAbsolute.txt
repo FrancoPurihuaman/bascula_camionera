@@ -1,0 +1,44 @@
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Debug\BSourceReports.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Debug\BSourceReports.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Debug\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Debug\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Debug\BModelo.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csproj.CopyComplete
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\bin\Debug\BSourceReports.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\bin\Debug\BSourceReports.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\bin\Debug\BModelo.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\bin\Debug\BDatos.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\bin\Debug\BModelo.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\bin\Debug\BDatos.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csprojAssemblyReference.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csproj.CoreCompileInputs.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csproj.CopyComplete
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BSourceReports.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BSourceReports.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BModelo.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BModelo.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csprojAssemblyReference.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csproj.CopyComplete
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BSourceReports.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BSourceReports.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BModelo.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BDatos.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BModelo.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.csproj.CopyComplete
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Debug\BSourceReports.pdb

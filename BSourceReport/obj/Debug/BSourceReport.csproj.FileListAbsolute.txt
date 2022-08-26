@@ -1,0 +1,11 @@
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\bin\Debug\BSourceReport.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\bin\Debug\BSourceReport.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\bin\Debug\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\bin\Debug\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\bin\Debug\BModelo.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\bin\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\obj\Debug\BSourceReport.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\obj\Debug\BSourceReport.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\obj\Debug\BSourceReport.csproj.CopyComplete
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\obj\Debug\BSourceReport.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReport\obj\Debug\BSourceReport.pdb

@@ -1,0 +1,33 @@
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Release\BSourceReports.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Release\BSourceReports.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Release\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Release\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Release\BModelo.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\bin\Release\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csproj.CopyComplete
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Release\BSourceReports.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Release\BSourceReports.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Release\BModelo.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Release\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Release\BModelo.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\bin\Release\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csprojAssemblyReference.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csproj.CopyComplete
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Release\BSourceReports.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Release\BSourceReports.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Release\BModelo.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Release\BDatos.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Release\BModelo.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\bin\Release\BDatos.pdb
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.csproj.CopyComplete
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.dll
+C:\Users\Franco\Desktop\BalanzaCamion\BSourceReports\obj\Release\BSourceReports.pdb

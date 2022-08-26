@@ -1,0 +1,11 @@
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\bin\Release\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\bin\Release\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\obj\Release\BDatos.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\obj\Release\BDatos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\obj\Release\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\obj\Release\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\bin\Release\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\bin\Release\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\obj\Release\BDatos.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\obj\Release\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\obj\Release\BDatos.pdb

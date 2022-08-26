@@ -1,0 +1,42 @@
+D:\proyecto oficial\Balanza\BModelo\bin\Debug\BModelo.dll
+D:\proyecto oficial\Balanza\BModelo\bin\Debug\BModelo.pdb
+D:\proyecto oficial\Balanza\BModelo\obj\Debug\BModelo.csprojAssemblyReference.cache
+D:\proyecto oficial\Balanza\BModelo\obj\Debug\BModelo.csproj.CoreCompileInputs.cache
+D:\proyecto oficial\Balanza\BModelo\obj\Debug\BModelo.dll
+D:\proyecto oficial\Balanza\BModelo\obj\Debug\BModelo.pdb
+F:\BalanzaCamion\BalanzaCamion\BModelo\bin\Debug\BModelo.dll
+F:\BalanzaCamion\BalanzaCamion\BModelo\bin\Debug\BModelo.pdb
+F:\BalanzaCamion\BalanzaCamion\BModelo\bin\Debug\BDatos.dll
+F:\BalanzaCamion\BalanzaCamion\BModelo\bin\Debug\BDatos.pdb
+F:\BalanzaCamion\BalanzaCamion\BModelo\obj\Debug\BModelo.csprojAssemblyReference.cache
+F:\BalanzaCamion\BalanzaCamion\BModelo\obj\Debug\BModelo.csproj.CoreCompileInputs.cache
+F:\BalanzaCamion\BalanzaCamion\BModelo\obj\Debug\BModelo.csproj.CopyComplete
+F:\BalanzaCamion\BalanzaCamion\BModelo\obj\Debug\BModelo.dll
+F:\BalanzaCamion\BalanzaCamion\BModelo\obj\Debug\BModelo.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\bin\Debug\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\bin\Debug\BModelo.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\bin\Debug\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\bin\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Debug\BModelo.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Debug\BModelo.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Debug\BModelo.csproj.CopyComplete
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Debug\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BModelo\obj\Debug\BModelo.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\bin\Debug\BModelo.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\bin\Debug\BModelo.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\bin\Debug\BDatos.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\bin\Debug\BDatos.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\obj\Debug\BModelo.csprojAssemblyReference.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\obj\Debug\BModelo.csproj.CoreCompileInputs.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\obj\Debug\BModelo.csproj.CopyComplete
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\obj\Debug\BModelo.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BModelo\obj\Debug\BModelo.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\bin\Debug\BModelo.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\bin\Debug\BModelo.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\bin\Debug\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\bin\Debug\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Debug\BModelo.csprojAssemblyReference.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Debug\BModelo.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Debug\BModelo.csproj.CopyComplete
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Debug\BModelo.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BModelo\obj\Debug\BModelo.pdb

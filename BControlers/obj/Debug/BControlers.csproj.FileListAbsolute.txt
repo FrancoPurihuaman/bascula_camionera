@@ -1,0 +1,33 @@
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\bin\Debug\BControlers.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\bin\Debug\BControlers.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\bin\Debug\BModelo.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\bin\Debug\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\bin\Debug\BModelo.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\bin\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\obj\Debug\BControlers.csprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\obj\Debug\BControlers.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\obj\Debug\BControlers.csproj.CopyComplete
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\obj\Debug\BControlers.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BControlers\obj\Debug\BControlers.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\bin\Debug\BControlers.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\bin\Debug\BControlers.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\bin\Debug\BModelo.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\bin\Debug\BDatos.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\bin\Debug\BModelo.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\bin\Debug\BDatos.pdb
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\obj\Debug\BControlers.csprojAssemblyReference.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\obj\Debug\BControlers.csproj.CoreCompileInputs.cache
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\obj\Debug\BControlers.csproj.CopyComplete
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\obj\Debug\BControlers.dll
+D:\Todo del Proyecto de balanza\BalanzaCamion\BControlers\obj\Debug\BControlers.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\bin\Debug\BControlers.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\bin\Debug\BControlers.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\bin\Debug\BModelo.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\bin\Debug\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\bin\Debug\BModelo.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\bin\Debug\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\obj\Debug\BControlers.csprojAssemblyReference.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\obj\Debug\BControlers.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\obj\Debug\BControlers.csproj.CopyComplete
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\obj\Debug\BControlers.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BControlers\obj\Debug\BControlers.pdb

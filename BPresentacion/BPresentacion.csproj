@@ -1,0 +1,1302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D495E09C-DCEC-4A22-A18A-EC9A849BDF80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BPresentacion</RootNamespace>
+    <AssemblyName>SpcThomas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Franco\Desktop\setup_app\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dot_setup.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>CADC3A480B56A26178887FE98D761348A90C6BC9</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>BPresentacion_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAnularPeso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnularPeso.Designer.cs">
+      <DependentUpon>frmAnularPeso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjustesUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjustesUsuarios.Designer.cs">
+      <DependentUpon>frmAjustesUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAjustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjustes.Designer.cs">
+      <DependentUpon>frmAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfigSis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfigSis.Designer.cs">
+      <DependentUpon>frmConfigSis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTicketPendiente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTicketPendiente.Designer.cs">
+      <DependentUpon>frmTicketPendiente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTickets.Designer.cs">
+      <DependentUpon>frmTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="libraries\PrinterDirectory.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReports.Designer.cs">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\visorImpresion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\visorImpresion.Designer.cs">
+      <DependentUpon>visorImpresion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\visorPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\visorPrincipal.Designer.cs">
+      <DependentUpon>visorPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\visorReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\visorReportes.Designer.cs">
+      <DependentUpon>visorReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="frmAnularPeso.resx">
+      <DependentUpon>frmAnularPeso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjustesUsuarios.resx">
+      <DependentUpon>frmAjustesUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAjustes.resx">
+      <DependentUpon>frmAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfigSis.resx">
+      <DependentUpon>frmConfigSis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTicketPendiente.resx">
+      <DependentUpon>frmTicketPendiente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTickets.resx">
+      <DependentUpon>frmTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReports.resx">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\impPrimerPesa.rdlc" />
+    <EmbeddedResource Include="Reports\impSeguPesa.rdlc" />
+    <EmbeddedResource Include="Reports\PrimerPesada.rdlc" />
+    <EmbeddedResource Include="Reports\Report2.rdlc" />
+    <EmbeddedResource Include="Reports\Report3.rdlc" />
+    <EmbeddedResource Include="Reports\reportPrincipalSal.rdlc" />
+    <EmbeddedResource Include="Reports\reportPrincipal.rdlc" />
+    <EmbeddedResource Include="Reports\SegundaPesada.rdlc" />
+    <EmbeddedResource Include="Reports\visorImpresion.resx">
+      <DependentUpon>visorImpresion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\visorPrincipal.resx">
+      <DependentUpon>visorPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\visorReportes.resx">
+      <DependentUpon>visorReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BPresentacion_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\BSourceReports.BinLiquidacionCaja.datasource" />
+    <None Include="Properties\DataSources\BSourceReports.BinPrimerPesada.datasource" />
+    <None Include="Properties\DataSources\BSourceReports.BinResumenDiario.datasource" />
+    <None Include="Properties\DataSources\BSourceReports.BinSegundaPesada.datasource" />
+    <None Include="Properties\DataSources\BSourceReports.Prueba.datasource" />
+    <None Include="Properties\DataSources\BSourceReports.SRLiquidacionCaja.datasource" />
+    <None Include="Properties\DataSources\BSourceReports.SRPrimerPesada.datasource" />
+    <None Include="Properties\DataSources\BSourceReports.SRResumenDiario.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BControlers\BControlers.csproj">
+      <Project>{0824dafb-cc9a-4795-a8e3-376b36dd1993}</Project>
+      <Name>BControlers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BModelo\BModelo.csproj">
+      <Project>{d090a045-7568-4d0b-b0cb-e185a56a566f}</Project>
+      <Name>BModelo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BSourceReports\BSourceReports.csproj">
+      <Project>{7904c7e0-c229-4d6d-8b15-f42cf50d89e1}</Project>
+      <Name>BSourceReports</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Aplication\login_gov_icon_146024.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Aplication\TractorUnit_Black_icon-icons.com_54885.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_3d_rotation_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_3d_rotation_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_accessibility_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_accessibility_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_balance_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_balance_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_balance_wallet_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_balance_wallet_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_box_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_box_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_child_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_child_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_circle_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_account_circle_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_add_shopping_cart_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_add_shopping_cart_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_alarm_add_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_alarm_add_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_alarm_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_alarm_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_alarm_off_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_alarm_off_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_alarm_on_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_alarm_on_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_android_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_android_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_announcement_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_announcement_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_aspect_ratio_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_aspect_ratio_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assessment_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assessment_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_ind_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_ind_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_late_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_late_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_return_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_return_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_returned_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_returned_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_turned_in_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_assignment_turned_in_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_autorenew_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_autorenew_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_backup_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_backup_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_book_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_book_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_bookmark_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_bookmark_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_bookmark_outline_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_bookmark_outline_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_bug_report_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_bug_report_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_cached_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_cached_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_class_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_class_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_credit_card_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_credit_card_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_dashboard_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_dashboard_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_delete_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_delete_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_description_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_description_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_dns_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_dns_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_done_all_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_done_all_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_done_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_done_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_event_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_event_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_exit_to_app_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_exit_to_app_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_explore_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_explore_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_extension_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_extension_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_face_unlock_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_face_unlock_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_favorite_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_favorite_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_favorite_outline_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_favorite_outline_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_find_in_page_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_find_in_page_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_find_replace_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_find_replace_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_flip_to_back_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_flip_to_back_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_flip_to_front_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_flip_to_front_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_get_app_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_get_app_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_grade_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_grade_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_group_work_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_group_work_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_help_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_help_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_highlight_remove_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_highlight_remove_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_history_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_history_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_home_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_home_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_https_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_https_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_info_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_info_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_info_outline_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_info_outline_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_input_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_input_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_invert_colors_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_invert_colors_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_label_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_label_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_label_outline_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_label_outline_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_language_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_language_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_launch_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_launch_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_list_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_list_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_lock_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_lock_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_lock_open_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_lock_open_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_lock_outline_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_lock_outline_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_loyalty_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_loyalty_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_markunread_mailbox_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_markunread_mailbox_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_note_add_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_note_add_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_open_in_browser_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_open_in_browser_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_open_in_new_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_open_in_new_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_open_with_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_open_with_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_pageview_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_pageview_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_payment_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_payment_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_camera_mic_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_camera_mic_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_contact_cal_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_contact_cal_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_data_setting_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_data_setting_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_device_info_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_device_info_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_identity_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_identity_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_media_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_media_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_phone_msg_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_phone_msg_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_scan_wifi_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_perm_scan_wifi_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_picture_in_picture_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_picture_in_picture_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_polymer_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_polymer_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_print_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_print_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_query_builder_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_query_builder_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_question_answer_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_question_answer_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_receipt_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_receipt_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_redeem_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_redeem_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_reorder_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_reorder_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_report_problem_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_report_problem_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_restore_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_restore_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_room_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_room_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_schedule_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_schedule_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_search_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_search_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_applications_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_applications_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_backup_restore_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_backup_restore_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_bluetooth_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_bluetooth_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_cell_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_cell_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_display_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_display_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_ethernet_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_ethernet_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_antenna_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_antenna_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_component_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_component_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_composite_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_composite_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_hdmi_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_hdmi_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_svideo_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_input_svideo_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_overscan_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_overscan_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_phone_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_phone_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_power_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_power_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_remote_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_remote_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_voice_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_settings_voice_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_shop_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_shop_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_shop_two_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_shop_two_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_shopping_basket_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_shopping_basket_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_shopping_cart_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_shopping_cart_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_speaker_notes_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_speaker_notes_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_spellcheck_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_spellcheck_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_star_rate_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_star_rate_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_stars_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_stars_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_store_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_store_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_subject_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_subject_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_supervisor_account_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_supervisor_account_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_swap_horiz_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_swap_horiz_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_swap_vert_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_swap_vert_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_swap_vert_circle_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_swap_vert_circle_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_system_update_tv_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_system_update_tv_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_tab_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_tab_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_tab_unselected_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_tab_unselected_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_theaters_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_theaters_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_thumb_down_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_thumb_down_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_thumb_up_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_thumb_up_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_thumbs_up_down_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_thumbs_up_down_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_toc_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_toc_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_today_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_today_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_track_changes_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_track_changes_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_translate_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_translate_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_trending_down_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_trending_down_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_trending_neutral_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_trending_neutral_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_trending_up_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_trending_up_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_turned_in_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_turned_in_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_turned_in_not_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_turned_in_not_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_verified_user_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_verified_user_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_agenda_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_agenda_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_array_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_array_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_carousel_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_carousel_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_column_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_column_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_day_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_day_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_headline_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_headline_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_list_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_list_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_module_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_module_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_quilt_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_quilt_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_stream_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_stream_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_week_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_view_week_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_visibility_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_visibility_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_visibility_off_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_visibility_off_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_wallet_giftcard_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_wallet_giftcard_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_wallet_membership_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_wallet_membership_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_wallet_travel_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_wallet_travel_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_work_black_24dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\Action\action\1x_ios\ic_work_black_48dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camion-logo-black.png" />
+    <None Include="Resources\camion-logo-black-pri.png" />
+    <None Include="Resources\minimize-white-x24.png" />
+    <None Include="Resources\close-button-witex241.png" />
+    <None Include="Resources\close-button-witex24.png" />
+    <None Include="Resources\close-button-x24.png" />
+    <None Include="Resources\buscar.png" />
+    <None Include="Resources\impresion.png" />
+    <None Include="Resources\printer_6029.png" />
+    <None Include="Resources\anadir.png" />
+    <Content Include="bdMorrup.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dot_setup.ico" />
+    <Content Include="spc_setup_.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="bdMorrup.accdb">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

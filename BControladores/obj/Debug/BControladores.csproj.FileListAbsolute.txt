@@ -1,0 +1,18 @@
+D:\proyecto oficial\Balanza\BControladores\bin\Debug\BControladores.dll
+D:\proyecto oficial\Balanza\BControladores\bin\Debug\BControladores.pdb
+D:\proyecto oficial\Balanza\BControladores\obj\Debug\BControladores.csprojAssemblyReference.cache
+D:\proyecto oficial\Balanza\BControladores\obj\Debug\BControladores.csproj.CoreCompileInputs.cache
+D:\proyecto oficial\Balanza\BControladores\obj\Debug\BControladores.dll
+D:\proyecto oficial\Balanza\BControladores\obj\Debug\BControladores.pdb
+D:\proyecto oficial\Balanza\BControladores\bin\Debug\BDatos.dll
+D:\proyecto oficial\Balanza\BControladores\bin\Debug\BDatos.pdb
+D:\proyecto oficial\Balanza\BControladores\obj\Debug\BControladores.csproj.CopyComplete
+D:\proyecto_oficial\Balanza\BControladores\bin\Debug\BControladores.dll
+D:\proyecto_oficial\Balanza\BControladores\bin\Debug\BControladores.pdb
+D:\proyecto_oficial\Balanza\BControladores\bin\Debug\BDatos.dll
+D:\proyecto_oficial\Balanza\BControladores\bin\Debug\BDatos.pdb
+D:\proyecto_oficial\Balanza\BControladores\obj\Debug\BControladores.csprojAssemblyReference.cache
+D:\proyecto_oficial\Balanza\BControladores\obj\Debug\BControladores.csproj.CoreCompileInputs.cache
+D:\proyecto_oficial\Balanza\BControladores\obj\Debug\BControladores.csproj.CopyComplete
+D:\proyecto_oficial\Balanza\BControladores\obj\Debug\BControladores.dll
+D:\proyecto_oficial\Balanza\BControladores\obj\Debug\BControladores.pdb

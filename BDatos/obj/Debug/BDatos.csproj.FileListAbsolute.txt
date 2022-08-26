@@ -1,0 +1,29 @@
+C:\Users\ING SISTEMAS\source\repos\Balanza\BDatos\bin\Debug\BDatos.dll
+C:\Users\ING SISTEMAS\source\repos\Balanza\BDatos\bin\Debug\BDatos.pdb
+C:\Users\ING SISTEMAS\source\repos\Balanza\BDatos\obj\Debug\BDatos.csprojAssemblyReference.cache
+C:\Users\ING SISTEMAS\source\repos\Balanza\BDatos\obj\Debug\BDatos.csproj.CoreCompileInputs.cache
+C:\Users\ING SISTEMAS\source\repos\Balanza\BDatos\obj\Debug\BDatos.dll
+C:\Users\ING SISTEMAS\source\repos\Balanza\BDatos\obj\Debug\BDatos.pdb
+D:\proyecto oficial\Balanza\BDatos\bin\Debug\BDatos.dll
+D:\proyecto oficial\Balanza\BDatos\bin\Debug\BDatos.pdb
+D:\proyecto oficial\Balanza\BDatos\obj\Debug\BDatos.csprojAssemblyReference.cache
+D:\proyecto oficial\Balanza\BDatos\obj\Debug\BDatos.csproj.CoreCompileInputs.cache
+D:\proyecto oficial\Balanza\BDatos\obj\Debug\BDatos.dll
+D:\proyecto oficial\Balanza\BDatos\obj\Debug\BDatos.pdb
+D:\proyecto_oficial\Balanza\BDatos\bin\Debug\BDatos.dll
+D:\proyecto_oficial\Balanza\BDatos\bin\Debug\BDatos.pdb
+D:\proyecto_oficial\Balanza\BDatos\obj\Debug\BDatos.csprojAssemblyReference.cache
+D:\proyecto_oficial\Balanza\BDatos\obj\Debug\BDatos.csproj.CoreCompileInputs.cache
+D:\proyecto_oficial\Balanza\BDatos\obj\Debug\BDatos.dll
+D:\proyecto_oficial\Balanza\BDatos\obj\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\bin\Debug\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\bin\Debug\BDatos.pdb
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\obj\Debug\BDatos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\obj\Debug\BDatos.dll
+C:\Users\Franco\Desktop\Avances del Proyecto\BalanzaCamion\BDatos\obj\Debug\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\bin\Debug\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\bin\Debug\BDatos.pdb
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\obj\Debug\BDatos.csprojAssemblyReference.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\obj\Debug\BDatos.csproj.CoreCompileInputs.cache
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\obj\Debug\BDatos.dll
+C:\Users\THOMAS\Desktop\BalanzaCamion\BDatos\obj\Debug\BDatos.pdb
